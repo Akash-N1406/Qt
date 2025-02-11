@@ -19,16 +19,8 @@ To install Qt, you can follow the official guide: Qt Installation Guide.
 
 Installation
 Clone the repository:
-
-bash
-Copy
-Edit
 git clone https://github.com/yourusername/qt-cpp-projects.git
 Navigate into the project directory:
-
-bash
-Copy
-Edit
 cd qt-cpp-projects
 Open the project in Qt Creator or use the Qt command line tools to build and run the project.
 
