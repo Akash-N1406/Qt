@@ -12,14 +12,14 @@ A functional calculator application built with Qt and C++. This project includes
 ## Requirements
 Before running the projects, ensure that you have the following dependencies installed:
 
--**Qt Framework** (version X.X or higher)
--**C++ Compiler** (e.g., GCC, MSVC)
+- **Qt Framework** (version X.X or higher)
+- **C++ Compiler** (e.g., GCC, MSVC)
 To install Qt, you can follow the official guide: Qt Installation Guide.
 
 ## Installation
 ### Clone the repository:
 ```bash
-git clone https://github.com/yourusername/https://github.com/Akash-N1406/Qt.git
+git clone https://github.com/Akash-N1406/Qt.git
 ```
 ### Navigate into the project directory:
 ```bash
